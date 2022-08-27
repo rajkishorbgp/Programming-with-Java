@@ -1,8 +1,10 @@
 /*
- *   Get: to return the value
- *   Set: to modify the value
+                       Getters & Setters
+
+ *           --> Get: to return the value
+ *           --> Set: to modify the value
  * 
- *   this: this keyword is used to refer to the current object.
+ *      * this: this keyword is used to refer to the current object.
  */
 
 public class GettersSetters {
