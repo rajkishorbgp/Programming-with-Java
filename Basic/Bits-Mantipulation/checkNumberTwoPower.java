@@ -12,5 +12,18 @@ public class checkNumberTwoPower {
 
     public static void main(String[] args) {
         System.out.println(checkPower(4));
+        System.out.println(checkPower(3));
+
     }
 }
+
+
+
+/* 
+
+    Output:
+
+    true
+    false
+
+*/
