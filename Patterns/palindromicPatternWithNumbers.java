@@ -9,7 +9,6 @@
  * 
  */
 
- 
 public class palindromicPatternWithNumbers {
     public static void main(String[] args) {
         short n = 5;
