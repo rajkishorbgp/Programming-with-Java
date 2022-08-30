@@ -22,3 +22,15 @@ public class solidRhombusPattern {
         }
     }
 }
+
+
+/*
+    Output: 
+    
+        *****
+       *****
+      *****
+     *****
+    *****
+
+ */

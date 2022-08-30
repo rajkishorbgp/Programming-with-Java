@@ -8,6 +8,7 @@
  *                     *****
  */
 
+
 public class hollowRhombusPattern {
     public static void main(String[] args) {
         short n = 5;

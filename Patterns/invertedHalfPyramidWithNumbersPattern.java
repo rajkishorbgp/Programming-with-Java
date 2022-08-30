@@ -8,6 +8,7 @@
  *          1
  */
 
+ 
 public class invertedHalfPyramidWithNumbersPattern {
     public static void main(String[] args) {
 

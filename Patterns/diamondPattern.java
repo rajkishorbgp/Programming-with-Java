@@ -11,6 +11,7 @@
  *                             *
  */
 
+ 
 public class diamondPattern {
     public static void main(String[] args) {
         short n = 4;

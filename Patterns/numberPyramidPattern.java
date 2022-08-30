@@ -7,6 +7,7 @@
  *                          5 5 5 5 5
  */
 
+ 
 public class numberPyramidPattern {
     public static void main(String[] args) {
         short n = 5;
