@@ -7,6 +7,7 @@
 
 */
 
+
 public class HOLLOW_RECTANGLE_pattern {
     public static void pattern(int r, int c) {
         for (int i = 1; i <= r; i++) {
