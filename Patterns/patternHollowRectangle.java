@@ -5,7 +5,6 @@
  *                            *   *
  *                            *****
  */
-
  
 public class patternHollowRectangle {
     public static void main(String[] args) {
