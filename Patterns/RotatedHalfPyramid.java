@@ -6,6 +6,7 @@
                      ****
  */
 
+ 
 public class RotatedHalfPyramid {
 
     public static void pattern(int num){
