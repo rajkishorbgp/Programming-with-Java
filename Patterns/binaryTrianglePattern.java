@@ -8,6 +8,7 @@
  *                           1 0 1 0 1 
  */
 
+
 public class binaryTrianglePattern {
     public static void main(String[] args) {
         short rc = 5;
