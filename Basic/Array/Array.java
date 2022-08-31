@@ -27,6 +27,8 @@ public class Array {
         marks[2] = sc.nextInt();
         marks[3] = sc.nextInt();
         marks[4] = sc.nextInt();
+
+        // Output in Array
         System.out.println(marks[0] + " " + marks[1] + " " + marks[2] + " " + marks[3] + " " + marks[4]);
     }
 
