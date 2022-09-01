@@ -1,7 +1,6 @@
 /*
  *          Binary Search
  *         Prerequisite - sorted arrays 
- * 
  */
 
 
