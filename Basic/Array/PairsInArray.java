@@ -31,6 +31,7 @@ public class PairsInArray {
     }
 }
 
+
 /*
  *   Output:
  *   (2,4) (2,6) (2,8) (2,10) 
