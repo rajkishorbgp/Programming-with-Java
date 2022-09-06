@@ -19,7 +19,7 @@ interface ChessPlayer{
 
 class Queen implements ChessPlayer {
     public void moves () {
-        System.out.println("up , down , left , right , diagonal ( in all 4 dirns");
+        System.out.println("up , down , left , right , diagonal ( in all 4 dirns )");
     }
 }
 
@@ -47,3 +47,8 @@ interface Carnivore {
 class Bear implements Herbivore, Carnivore{
     
 }
+
+/*
+ *  Output
+ *  up , down , left , right , diagonal ( in all 4 dirns )
+ */
