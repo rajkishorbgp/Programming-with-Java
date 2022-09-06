@@ -50,3 +50,9 @@ class Mammal extends Animal {
 class Dog extends Mammal {
     String breed;
 }
+
+/*
+ *   Output:
+ *   eats
+ *   4
+ */
