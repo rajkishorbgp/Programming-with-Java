@@ -42,3 +42,12 @@ class Chicken extends IsAnimal {
         System.out.println("Walks on 2 legs");
     }
 }
+
+/*
+ *  Output
+ *  animal eats
+ *  Walks on 4 legs
+ *  animal eats
+ *  Walks on 2 legs
+ *  brown
+ */
