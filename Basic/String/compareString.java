@@ -17,3 +17,8 @@ public class compareString {
         System.out.println(largest);
     }
 }
+
+/*
+ *    Output:
+ *    mango
+ */
