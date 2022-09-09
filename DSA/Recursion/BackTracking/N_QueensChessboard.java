@@ -1,6 +1,9 @@
 /*              
  *                          N-Queens
  *      Place N queen on an N*N chessboard such that no 2 queens can attack each other
+ *        
+ *      N-Queens - count ways
+ *     Count total number of ways in which we can solve N Queens problem.
  */
 
 public class N_QueensChessboard {
@@ -42,6 +45,7 @@ public class N_QueensChessboard {
     public static void nQueens(char board[][], int row){
         // base
         if(row==board.length){
+            count++;
             printChessboard(board);
             return;
         }
@@ -54,6 +58,8 @@ public class N_QueensChessboard {
             }
         }
     }
+
+    static int count=0;
     
     public static void main(String[] args) {
         int n=4;
@@ -65,6 +71,7 @@ public class N_QueensChessboard {
             }
         }
         nQueens(chessboard,0);
+        System.out.println("Total ways to solve n queens = "+ count);
     }
 }
 
