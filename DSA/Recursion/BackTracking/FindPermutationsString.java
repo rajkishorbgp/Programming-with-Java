@@ -25,3 +25,13 @@ public class FindPermutationsString {
         findPermutation(str,"");
     }
 }
+
+/*
+ *   Output:
+ *   abc
+ *   acb
+ *   bac
+ *   bca
+ *   cab
+ *   cba
+ */
