@@ -38,25 +38,47 @@ public class LinkedListAddLast_AddFirst {
         }
 
         //  step2: newNode next = head
-        newNode.next = head = newNode; //link
+        newNode.next = head; //link
+
+        // step3: head = new Node;
+        head = newNode; 
     }
 
     // add last
     public void addLast(int data){
-        Node nextLast=new Node(data);
+        Node nextNode=new Node(data);
         if(head == null){
-            head = tail = nextLast;
+            head = tail = nextNode;
             return;
         }
-        tail = nextLast.next = nextLast;
+        tail.next = nextNode;
+        tail=nextNode;
+    }
+
+    // print Linked Listsss
+    public static void printLL(){
+        if (head==null) {
+            System.out.println("Linked List is Empty");
+        }
+        Node temp=head;
+        while (temp!=null) {
+            System.out.print(temp.data + " ");
+            temp=temp.next;
+        }
     }
 
     public static void main(String[] args) {
         LinkedListAddLast_AddFirst list = new LinkedListAddLast_AddFirst();
         list.addFist(1);
         list.addFist(2);
-        list.addLast(4);
-        list.addLast(5);
+       list.addLast(4);
+       list.addLast(5);
+        list.printLL();
     }
 
 }
+
+/*
+ *    Output
+ *    2 1 4 5
+ */
