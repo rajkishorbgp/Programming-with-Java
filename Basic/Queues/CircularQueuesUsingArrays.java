@@ -72,10 +72,15 @@ public class CircularQueuesUsingArrays {
 
         while (!q.isEmpty()) {
             System.out.println(q.remove());
-
         }
-        System.out.println(q.remove());
-
     }
-
 }
+
+/*
+ * Output:
+ * 1
+ * 2
+ * 3
+ * 4
+ * 5
+ */
