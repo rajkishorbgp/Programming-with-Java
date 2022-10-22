@@ -1,3 +1,7 @@
+/*
+ *   Create queue using two stacks
+ */
+
 import java.util.Stack;
 
 import javax.xml.crypto.Data;
