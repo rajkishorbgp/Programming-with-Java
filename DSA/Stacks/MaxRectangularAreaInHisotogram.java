@@ -28,11 +28,9 @@ public class MaxRectangularAreaInHisotogram {
             }
             s.push(i);
         }
-        while (!s.isEmpty()) {
-            s.pop();
-        }
 
         // next smalles Left
+        s = new Stack<>();
         for (int i = 0; i < nsr.length; i++) {
             while (!s.isEmpty() && height[s.peek()] >= height[i]) {
                 s.pop();
@@ -45,15 +43,16 @@ public class MaxRectangularAreaInHisotogram {
             s.push(i);
         }
 
-        // arr = height * width;
-        // width = next small right - next small left -1;
         int maxArea = Integer.MIN_VALUE;
-        int area[] = new int[height.length];
         for (int i = 0; i < nsr.length; i++) {
-            area[i] = height[i] * (nsr[i] - nsl[i] - 1);
-            if (maxArea < area[i]) {
-                maxArea = area[i];
-            }
+
+            // width = (next small right) - (next small left)-1;
+            int width = nsr[i] - nsl[i] - 1;
+
+            // arr = height * width;
+            int currArea = height[i] * width;
+
+            maxArea = Math.max(maxArea, currArea);
         }
         return maxArea;
     }
