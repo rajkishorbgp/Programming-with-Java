@@ -56,3 +56,9 @@ public class JobSequencingProblem {
         System.out.println();
     }
 }
+
+/*
+ * Output:
+ * max jobs =2
+ * 2 0
+ */
