@@ -43,3 +43,9 @@ public class KthLevelPrint {
         KLevel(root, 1, k);
     }
 }
+
+/*
+ *   Output: 
+ *   4 5 6 7 
+ * 
+ */
