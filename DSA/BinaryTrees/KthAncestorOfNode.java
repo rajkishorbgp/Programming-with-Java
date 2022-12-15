@@ -28,7 +28,7 @@ public class KthAncestorOfNode {
         if (leftDist == -1 && rightDist == -1) {
             return -1;
         }
-        int max = Math.max(leftDist, rightDist) + 1;
+        int max = Math.max(leftDist, rightDist);
         if (max + 1 == k) {
             System.out.println(root.data);
         }
@@ -45,8 +45,13 @@ public class KthAncestorOfNode {
         root.right.left = new Node(6);
         root.right.right = new Node(7);
 
-        int data = 5;
+        int data = 4;
         int k = 2;
         kAncestor(root, data, k);
     }
 }
+
+/*
+ * Output:
+ * 1
+ */
