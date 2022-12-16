@@ -10,7 +10,8 @@ public class AccessModifiers {
         myAcc.setPassword("raj@1234");
         ;
 
-        System.out.println(myAcc.username);
+        System.out.println(myAcc.username); // rajkishorbgp
+        System.out.println(myAcc.getPassword()); // raj@1234
     }
 }
 
@@ -26,4 +27,14 @@ class BankAccount {
         this.password = password;
     }
 
+    public String getPassword() {
+        return password;
+    }
+
 }
+
+/*
+ * Output:
+ * rajkishorbgp
+ * raj@1234
+ */
