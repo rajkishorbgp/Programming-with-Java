@@ -1,35 +1,68 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Raj Kishor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkishorbgp&label=Profile%20views&color=0e75b6&style=flat" alt="rajkishorbgp" /> </p>
+# [ALPHA STUDENT](https://www.apnacollege.in/course/placement-course-java)
 
-<p align="left"> <a href="https://twitter.com/rajkishorbgp" target="blank"><img src="https://img.shields.io/twitter/follow/rajkishorbgp?logo=twitter&style=for-the-badge" alt="rajkishorbgp" /></a> </p>
+<img align="right" alt="Coding" width="200" src="https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/6efdd5e7f0d663cf231d0f2040be0a1e.png">
 
-- 🌱 I’m currently learning **Android developer**
+### Complete Java Language with  Data Structures & Algorithms
+`300+ Coding Questions on All Important Topics (asked by Top Companies)`
 
-- 💬 Ask me about **Android**
+<img align="right" alt="Coding" width="250" src="https://th.bing.com/th/id/OIP.umXj7kc766dOPpjavaBmLQHaEo?pid=ImgDet&rs=1">
 
-- 📫 How to reach me **rajkishor6091@gmail.com**
+>> ALL TOPICS COVERED
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkishorbgp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkishorbgp" height="30" width="40" /></a>
-<a href="https://fb.com/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajkishorbgp" height="30" width="40" /></a>
-<a href="https://instagram.com/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajkishorbgp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajkishorbgp" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mr211110106095" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr211110106095" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajkishorbgp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkishorbgp&show_icons=true&locale=en&layout=compact" alt="rajkishorbgp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkishorbgp&show_icons=true&locale=en" alt="rajkishorbgp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkishorbgp&" alt="rajkishorbgp" /></p>
-
+* [X] **Variables & Data types**
+>>> `Taking our first step into programming by learning concepts like Input, Output, Variables & Data Types in Java.`
+* [x] __Operators__
+>>>`Operators are an integral part of Java and we will be using them in almost all of our codes.`
+* [X] __Conditional statements__
+>>>`Not everything in life is unconditional like a mother's love. We only pass an exam after scoring 33, classes only happen during day time. Conditional Statements teach us how to convert this logic into code`
+* [x] __Loops__
+>>>`We have to do some things again & again & again & again.. How to repeat work in code with minimum lines of code.`
+* [x] __Patterns__
+>>>`This is Patterns. We will build some beautiful patterns using nested loops. In this section we are going to learn about more advanced patterns.`
+* [x] __Functions & Methods__
+>>>`Functions are a group of reusable code that can be called from anywhere in the program.`
+* [x] __Arrays__
+>>>`We will learn about our first Data Structure - Array.`
+* [x] __Sorting Algorithms__
+>>>`Sorting is arranging things in a defined order. Here, we will learn some techniques to do so in Java.`
+* [x] __2D Arrays__
+>>>`In this section, we will study about 2D Arrays.`
+* [x] __String__
+>>>`In this Section, we will study about Strings.`
+* [x] __Bit Manipulation__
+>>>`In this section, we will dive into the world of 0s & 1s.`
+* [x] __Object Oriented Programming__
+>>>`In this section, we will learn about Object Orientation. Most of the concepts that we will learn here not only apply to Java but also apply to multiple other languages like C++.`
+* [x] __Recursion__
+>>>`Recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem. Sounds complicated? No worries, we have made it simple for you.`
+* [x] __Divide & Conquer__
+>>>`Divide a problem into smaller sub-problems. Now, conquer it by assembling the smaller bits. It's as simple as that.`
+* [x] __Back Tracking__
+>>>`A technique where you try to find every possible solution to a problem using Recursion.`
+* [x] __ArrayLists__
+>>>`ArrayLists are like arrays, but more dynamic.`
+* [X] __Linked List__
+>>>`Linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Note - Practice Questions for Linked Lists will be provided at the end of Linked Lists.`
+* [x] __Stacks__
+>>>`In this section, we will study about stacks that work on the simple principle of Push & Pop.`
+* [x] __Queues__
+>>>`Queues are a collection of elements in a sequence, working on a simple principle First In First Out (FIFO).`
+* [x] __Greed Algorithms__
+>>>`The approach of solving a problem by selecting the best available option at the moment.`
+* [x] __Binary Trees__
+>>>`A binary tree is a tree data structure in which each node has at most two children. Note - The assignment of Binary Trees will be available in the last part of Binary Trees.`
+* [x] __Binary Search Trees__
+>>>`A Binary Search Tree is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree.`
+* [ ] Heaps
+>>>`A Heap is a special tree-based data structure in which the tree is a complete binary tree.`
+* [ ] Hashing
+>>>`In this section, we are going to cover Hashing, HashSets & HashMaps.`
+* [ ] Tries
+>>>`In this section, we will study about Tries.`
+* [ ] Graphs
+>>>`Graphs are easier than they seem. Note - Practice Qs of Graphs will be given with the last part`
+* [ ] Dynamic Programming
+>>>`Note - The Practice Qs & Solutions will be provided in the last part.`
+* [ ] Segment Trees
+>>>`Segment Tree is a tree data structure used for storing information about intervals, or segments.`
