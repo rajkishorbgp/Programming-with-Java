@@ -13,7 +13,7 @@ public class QuickSort {
     public static int partition(int arr[], int si, int ei) {
         int pivot = arr[ei];
         int j = si - 1;
-        for (int i = si; i <= ei; i++) {
+        for (int i = si; i < ei; i++) {
             if (arr[i] < pivot) {
                 int temp = arr[++j];
                 arr[j] = arr[i];
