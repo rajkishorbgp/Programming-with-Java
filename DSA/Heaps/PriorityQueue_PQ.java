@@ -14,7 +14,7 @@ public class PriorityQueue_PQ {
         pq.add(4);
 
         while (!pq.isEmpty()) {
-            System.out.print(pq.peek() + " "); // 0(1) //9 5 4 3 1
+            System.out.print(pq.peek() + " "); // 0(1) //9 5 4 3 1s
             pq.remove(); // 0(log n)
         }
     }
