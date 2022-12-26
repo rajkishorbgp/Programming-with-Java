@@ -54,7 +54,7 @@
 >>>`A binary tree is a tree data structure in which each node has at most two children. Note - The assignment of Binary Trees will be available in the last part of Binary Trees.`
 * [x] __Binary Search Trees__
 >>>`A Binary Search Tree is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree.`
-* [ ] Heaps
+* [X] Heaps
 >>>`A Heap is a special tree-based data structure in which the tree is a complete binary tree.`
 * [ ] Hashing
 >>>`In this section, we are going to cover Hashing, HashSets & HashMaps.`
