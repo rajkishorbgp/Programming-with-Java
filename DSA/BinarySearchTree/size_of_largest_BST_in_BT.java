@@ -51,8 +51,10 @@ public class size_of_largest_BST_in_BT {
         Info leftInfo = largestBST(root.left);
         Info righInfo = largestBST(root.right);
         int size = leftInfo.size + righInfo.size + 1;
+
         int min = Math.min(root.data, Math.min(leftInfo.min, righInfo.min));
         int max = Math.max(root.data, Math.max(leftInfo.max, righInfo.max));
+
         if (root.data <= leftInfo.max || root.data >= righInfo.min) {
             return new Info(false, size, min, max);
         }
@@ -74,7 +76,7 @@ public class size_of_largest_BST_in_BT {
         root.right.right.left = new Node(65);
         root.right.right.right = new Node(80);
 
-        Info info = largestBST(root);
+        largestBST(root);
 
         System.out.println("largest BST size = " + maxBST);
 
