@@ -30,7 +30,7 @@ public class PrefixProblem {
             if (currNode.children[indx] == null) {
                 currNode.children[indx] = new Node();
             } else {
-                currNode.freq++;
+                currNode.children[indx].freq++;
             }
             currNode = currNode.children[indx];
         }
@@ -60,7 +60,7 @@ public class PrefixProblem {
             insert(arr[i]);
         }
 
-        root.freq = -1;
+        root.freq = -3;
         findPrefix(root, "");
 
     }
@@ -68,7 +68,8 @@ public class PrefixProblem {
 
 /*
  * Output:
- * do
+ * dog
+ * dov
  * du
  * z
  */
