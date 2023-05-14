@@ -1,3 +1,5 @@
+<img align="left" alt="DSA" width="300" src="https://www.bing.com/images/search?view=detailV2&ccid=7u3F0jwr&id=7658EDAEE532FB21F4BBE5BA6E48F84F1CACF106&thid=OIP.7u3F0jwrxJAR3b6aNlcW1QHaDr&mediaurl=https%3A%2F%2Fwww.onlinetutorialspoint.com%2Fwp-content%2Fuploads%2F2015%2F05%2FDatastructures.png&exph=404&expw=812&q=data+structure&simid=608052341788921711&form=IRPRST&ck=27C61FBBB6028D3F0ADC79315A490B7F&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11">
+
 # [ALPHA STUDENT](https://www.apnacollege.in/course/placement-course-java)
 
 <img align="right" alt="Coding" width="200" src="https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/6efdd5e7f0d663cf231d0f2040be0a1e.png">
