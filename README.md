@@ -67,4 +67,4 @@
 - [ ] Segment Trees
   > > > `Segment Tree is a tree data structure used for storing information about intervals, or segments.`
 
-<img align="left" alt="Coding" width="200" src="https://www.bing.com/images/search?view=detailV2&ccid=2XcaYo6l&id=F8425D1F05D61A01B689551E6B46069DC1B109F1&thid=OIP.2XcaYo6ly7NGcC4ufl0BLgHaCp&mediaurl=https%3a%2f%2fclipground.com%2fimages%2fdsa-clipart-9.jpg&exph=213&expw=594&q=dsa+images&simid=608048347474564357&FORM=IRPRST&ck=088CFF85C59B3BDF4CA277F0C1A1A8F5&selectedIndex=8&ajaxhist=0&ajaxserp=0">
+<img align="left" alt="Coding" width="200" src="https://www.bing.com/images/search?view=detailV2&thid=OSK.HERO1LbfDQoh7HTFVB2m8Ffm9nZMHvFG4B3Dz3565lZGWos&mediaurl=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fbig-data-analytics-visualization-technology-with-scientist-analyzing-picture-id1205428317&exph=682&expw=1024&q=data+structure&form=IRPRST&selectedindex=0&cbid=OSK.HERO1LbfDQoh7HTFVB2m8Ffm9nZMHvFG4B3Dz3565lZGWos&cbn=KnowledgeCard&ajaxhist=0&ajaxserp=0&id=OSK.HERO1LbfDQoh7HTFVB2m8Ffm9nZMHvFG4B3Dz3565lZGWos&ccid=GSYqEa2b&vt=0">
