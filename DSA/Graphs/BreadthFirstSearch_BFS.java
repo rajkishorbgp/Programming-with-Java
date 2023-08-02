@@ -39,12 +39,9 @@ public class BreadthFirstSearch_BFS {
         }
     }
 
-    public static void main(String[] args) {
+    public static void creatGraphs(ArrayList<Edge>[] graph) {
 
-        int v = 5;
-        ArrayList<Edge>[] graph = new ArrayList[v];
-
-        for (int i = 0; i < v; i++) {
+        for (int i = 0; i < graph.length; i++) {
             graph[i] = new ArrayList<>();
         }
 
@@ -66,6 +63,15 @@ public class BreadthFirstSearch_BFS {
 
         // 4 vertex
         graph[4].add(new Edge(4, 2, 2));
+
+    }
+
+    public static void main(String[] args) {
+
+        int v = 5;
+        ArrayList<Edge>[] graph = new ArrayList[v];
+
+        creatGraphs(graph);
 
         bfs(graph);
     }
