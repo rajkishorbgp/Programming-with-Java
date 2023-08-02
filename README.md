@@ -60,7 +60,7 @@
   > > > `In this section, we are going to cover Hashing, HashSets & HashMaps.`
 - [x] Tries
   > > > `In this section, we will study about Tries.`
-- [ ] Graphs
+- [x] Graphs
   > > > `Graphs are easier than they seem. Note - Practice Qs of Graphs will be given with the last part`
 - [ ] Dynamic Programming
   > > > `Note - The Practice Qs & Solutions will be provided in the last part.`
