@@ -36,10 +36,21 @@ public class CycleDetection_in_DirectedGraph {
         graph[3].add(new Edge(3, 0));
     }
 
-    public static void creatGraph1(ArrayList<Edge> graph[]){
+    // graph2 -> false
+    public static void creatGraph2(ArrayList<Edge> graph[]) {
         for (int i = 0; i < graph.length; i++) {
-            graph[]
+            graph[i] = new ArrayList<>();
         }
+
+        // 0 Edge
+        graph[0].add(new Edge(0, 1));
+        graph[0].add(new Edge(0, 2));
+
+        // 1 Edge
+        graph[1].add(new Edge(1, 3));
+
+        // 2 Edge
+        graph[2].add(new Edge(2, 3));
     }
 
     public static boolean isCycle(ArrayList<Edge>[] graph) {
@@ -53,7 +64,7 @@ public class CycleDetection_in_DirectedGraph {
                 }
             }
         }
-        return true;
+        return false;
     }
 
     private static boolean isCycleUtil(ArrayList<Edge>[] graph, int curr, boolean[] vis,
@@ -73,3 +84,8 @@ public class CycleDetection_in_DirectedGraph {
         return false;
     }
 }
+
+/*
+ * Output:
+ * true
+ */
