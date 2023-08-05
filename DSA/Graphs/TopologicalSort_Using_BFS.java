@@ -80,3 +80,8 @@ public class TopologicalSort_Using_BFS {
         topSort(graph);
     }
 }
+
+/*
+ * Output:
+ * 4 5 0 2 3 1
+ */
