@@ -54,4 +54,4 @@
 - # [ ] ```38.	Write a servlet application to print the current date and time.```
 - # [ ] ```39.	Create a JSP page to accept a number from the user and display it in words.```
   >> ## ```Example: 123- One Two Three.  ```
-- # [ ] ```40.	Write a JSP application to count the total number of visits on your website.```
+- # [ ] 40.	Write a JSP application to count the total number of visits on your website.
