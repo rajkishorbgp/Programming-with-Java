@@ -9,6 +9,12 @@ public class Q2_Command_line_arguments_multiple_these {
         Double b = Double.parseDouble(args[1]);
         Double product = a*b;
         System.out.println("Product: "+product);
-
     }
 }
+
+/*
+ *   Output:
+ *   D:\Lab_Program>javac public class Q2_Command_line_arguments_multiple_these.java
+ *   D:\Lab_Program>javac public class Q2_Command_line_arguments_multiple_these 50 5
+ *   Product: 250.0
+ */
