@@ -1,4 +1,4 @@
-/*                               @Program: 4
+/*                               @Program: 16
  *     Write a java program to find factorial of a number using recursion.
  */
 import java.util.Scanner;
