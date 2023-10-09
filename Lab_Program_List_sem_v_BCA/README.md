@@ -17,7 +17,7 @@
 8. Write a java program to reverse the number.
 9. Write a java program to check whether a number is palindrome or not.
 10.	Write a java program to check whether a number is prime or not.
-11.	Write a java program to display Armstrong number between two   intervals.
+11.	Write a java program to display Armstrong number between two intervals.
 12.	Write a java program to display factors of a number.
 13.	Write a java program to print the following pattern:
     ```
