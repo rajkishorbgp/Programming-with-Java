@@ -5,7 +5,7 @@
 
 public class Q20_Bubble_sort_algorithm {
 
-    public static int[] bubbleSort(int arr[]){
+    public static void bubbleSort(int arr[]){
         for (int i = 0; i < arr.length-1; i++) {
             int count=0;
             for (int j = 0; j < arr.length-i-1; j++) {
@@ -20,12 +20,11 @@ public class Q20_Bubble_sort_algorithm {
                 break;
             }
         }
-        return arr;
     }
 
     public static void main(String[] args) {
         int arr[]={9,8,7,6,5,4,3,4,5};
-        arr = bubbleSort(arr);
+        bubbleSort(arr);
         for(int i=0; i<arr.length; i++){
             System.out.print(arr[i]+" ");
         }
