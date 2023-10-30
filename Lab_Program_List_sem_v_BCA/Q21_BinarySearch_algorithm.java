@@ -1,3 +1,9 @@
+/*
+ *                       @Program: 21
+ *     	Write a java program to implement binary search algorithm.
+ * 
+ */
+
 public class Q21_BinarySearch_algorithm {
     public static int binarySearch(int arr[], int key, int st, int ed){
         if (st > ed) {
