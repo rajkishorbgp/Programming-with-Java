@@ -19,7 +19,7 @@ public class Q21_BinarySearch_algorithm {
     
     public static void main(String[] args) {
         int array[] ={2,4,5,6,7,8,9,10};
-        int key = 16;
+        int key = 9;
         int index = binarySearch(array, key, 0, array.length - 1);
         
         if(index != -1){
@@ -29,3 +29,7 @@ public class Q21_BinarySearch_algorithm {
         }  
     }
 }
+/*
+ *  Output:
+ *  Element 9 is at 6 position
+ */
