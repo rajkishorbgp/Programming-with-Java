@@ -22,7 +22,7 @@ class GrandFather{
 }
 
 class Father extends GrandFather{
-    protected String property = "Window";
+    protected String property;
 
     Father(String fatProperty, String grFatProperty){
         super(grFatProperty);
@@ -35,7 +35,7 @@ class Father extends GrandFather{
 }
 
 class Child extends Father{
-   private String property = "Table";
+   private String property;
    Child(String childProperty, String fatProperty, String grFatProperty ){
         super(fatProperty,grFatProperty);
         this.property = childProperty;
