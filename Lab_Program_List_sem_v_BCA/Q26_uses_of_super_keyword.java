@@ -54,5 +54,4 @@ Output:
 Table
 Window
 Plants
-
  */
