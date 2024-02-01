@@ -3,7 +3,6 @@
     Write a package BCA which has one class Student. Accept student detail through parameterized constructor. 
     Write display() method to display details. Create a main class which will use package and calculate total marks and percentage.
 */
-
 import BCA.Student;
 
 public class Q31_create_BCA_package {
